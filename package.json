@@ -1,11 +1,10 @@
 {
-  "name": "fossnss",
+  "name": "nssnssce",
   "private": false,
   "description": "As explained in the name",
   "version": "0.1.0",
-  "author": "FOSS Admin <admin@fossnss.org>",
+  "author": "Sonu Sai P K",
   "dependencies": {
-    "bootstrap": "^4.4.1",
     "gatsby": "^2.20.12",
     "gatsby-image": "^2.2.33",
     "gatsby-plugin-catch-links": "^2.1.15",
@@ -26,7 +25,6 @@
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
-    "react-bootstrap": "^1.0.0",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1"
   },
@@ -48,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/fossnss/website"
+    "url": "https://github.com/sonu-sai/NssWebsite"
   },
   "bugs": {
-    "url": "https://gitlab.com/fossnss/website/issues"
+    "url": "https://github.com/sonu-sai/NssWebsite/issues"
   }
 }

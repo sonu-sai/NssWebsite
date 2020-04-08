@@ -1,98 +1,98 @@
-.treesect {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    height: 70vh;
-    margin: 0% 7%;
-    margin-bottom: 5%;
-    padding-top: 10px;
+// .treesect {
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: space-around;
+//     align-items: center;
+//     height: 70vh;
+//     margin: 0% 7%;
+//     margin-bottom: 5%;
+//     padding-top: 10px;
 
-    .treeimage {
-        max-width: 100%;
-        width: 80vw;
-        height: auto;
-    }
+//     .treeimage {
+//         max-width: 100%;
+//         width: 80vw;
+//         height: auto;
+//     }
 
-    .treetext {
-        margin-left: 10%;
-        h1 {
-            font-size: 2.1rem;
-            color: #373d3f;
-            margin-bottom: 0;
-            flex-basis: 50%;
-        }
+//     .treetext {
+//         margin-left: 10%;
+//         h1 {
+//             font-size: 2.1rem;
+//             color: #373d3f;
+//             margin-bottom: 0;
+//             flex-basis: 50%;
+//         }
 
-        .treequote1 {
-            font-size: 80px;
-        }
-        .treequote2 {
-            display: flex;
-            flex-direction: row;
-            justify-content: "end";
-            align-items: flex-end;
+//         .treequote1 {
+//             font-size: 80px;
+//         }
+//         .treequote2 {
+//             display: flex;
+//             flex-direction: row;
+//             justify-content: "end";
+//             align-items: flex-end;
 
-            .quotediv {
-                width: 100%;
-            }
+//             .quotediv {
+//                 width: 100%;
+//             }
 
-            .quote {
-                font-size: 80px;
-            }
-        }
+//             .quote {
+//                 font-size: 80px;
+//             }
+//         }
 
-        .treedesc {
-            margin-top: -40px;
-            margin-bottom: 0px;
-            margin-left: 7%;
-            width: 85%;
-            font-weight: 500;
-            font-style: italic;
-            font-size: medium;
-        }
-        .quoteauthor {
-            margin-top: -50px;
-            font-weight: 300;
-            font-size: 18px;
-            margin-left: 65%;
-        }
-    }
-}
+//         .treedesc {
+//             margin-top: -40px;
+//             margin-bottom: 0px;
+//             margin-left: 7%;
+//             width: 85%;
+//             font-weight: 500;
+//             font-style: italic;
+//             font-size: medium;
+//         }
+//         .quoteauthor {
+//             margin-top: -50px;
+//             font-weight: 300;
+//             font-size: 18px;
+//             margin-left: 65%;
+//         }
+//     }
+// }
 
-@media screen and (max-width: 768px) {
-    .treesect {
-        display: flex;
-        flex-direction: column-reverse;
-        height: 100vh;
+// @media screen and (max-width: 768px) {
+//     .treesect {
+//         display: flex;
+//         flex-direction: column-reverse;
+//         height: 100vh;
 
-        margin-top: 15%;
-        .treeimage {
-            margin-top: 20px;
-        }
-        .treetext {
-            font-weight: 100;
-            margin-left: 5%;
-            margin-right: 5%;
+//         margin-top: 15%;
+//         .treeimage {
+//             margin-top: 20px;
+//         }
+//         .treetext {
+//             font-weight: 100;
+//             margin-left: 5%;
+//             margin-right: 5%;
 
-            h1 {
-                font-weight: 100;
-            }
+//             h1 {
+//                 font-weight: 100;
+//             }
 
-            .quoteauthor {
-                margin-left: 36%;
-            }
-        }
-    }
-}
+//             .quoteauthor {
+//                 margin-left: 36%;
+//             }
+//         }
+//     }
+// }
 
-@media screen and (max-width: 366px) {
-    .treesect {
-        margin-top: 200px;
-        margin-bottom: 30px;
-        .treetext {
-            .quoteauthor {
-                margin-left: 25%;
-            }
-        }
-    }
-}
+// @media screen and (max-width: 366px) {
+//     .treesect {
+//         margin-top: 200px;
+//         margin-bottom: 30px;
+//         .treetext {
+//             .quoteauthor {
+//                 margin-left: 25%;
+//             }
+//         }
+//     }
+// }

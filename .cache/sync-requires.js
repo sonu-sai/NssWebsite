@@ -14,7 +14,6 @@ exports.components = {
   "component---src-pages-ourteam-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/ourteam.js"))),
   "component---src-pages-pratheeksha-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/pratheeksha.js"))),
   "component---src-pages-santhwanam-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/santhwanam.js"))),
-  "component---src-pages-slider-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/slider.js"))),
   "component---src-pages-unarv-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/unarv.js")))
 }
 

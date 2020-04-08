@@ -11,7 +11,6 @@ exports.components = {
   "component---src-pages-ourteam-js": () => import("./../src/pages/ourteam.js" /* webpackChunkName: "component---src-pages-ourteam-js" */),
   "component---src-pages-pratheeksha-js": () => import("./../src/pages/pratheeksha.js" /* webpackChunkName: "component---src-pages-pratheeksha-js" */),
   "component---src-pages-santhwanam-js": () => import("./../src/pages/santhwanam.js" /* webpackChunkName: "component---src-pages-santhwanam-js" */),
-  "component---src-pages-slider-js": () => import("./../src/pages/slider.js" /* webpackChunkName: "component---src-pages-slider-js" */),
   "component---src-pages-unarv-js": () => import("./../src/pages/unarv.js" /* webpackChunkName: "component---src-pages-unarv-js" */)
 }
 
