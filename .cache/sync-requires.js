@@ -9,7 +9,6 @@ exports.components = {
   "component---src-pages-404-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/404.js"))),
   "component---src-pages-aboutus-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/aboutus.js"))),
   "component---src-pages-events-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/events.js"))),
-  "component---src-pages-image-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/image.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/index.js"))),
   "component---src-pages-ourteam-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/ourteam.js"))),
   "component---src-pages-pratheeksha-js": hot(preferDefault(require("/home/sonu/Web-Projects/NssWebsite/src/pages/pratheeksha.js"))),

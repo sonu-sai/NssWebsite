@@ -8,8 +8,8 @@ const PratheekshaPage = () => (
   <div className="mainbody">
     <SEO title="PratheekshaPage" />
     <Header />
-    <SliderPratheeksha />
     <div className="container">
+      <SliderPratheeksha />
       <h1> PratheekshaPage</h1>
     </div>
     <Footer />

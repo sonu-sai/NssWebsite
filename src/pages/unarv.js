@@ -8,8 +8,8 @@ const UnarvPage = () => (
   <div className="mainbody">
     <SEO title="Unarv" />
     <Header />
-    <SliderUnarv />
     <div className="container">
+      <SliderUnarv />
       <h1>UnarvPage</h1>
     </div>
     <Footer />
