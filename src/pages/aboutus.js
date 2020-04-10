@@ -8,7 +8,7 @@ const AboutUsPage = () => (
     <SEO title="AboutUs" />
     <Header />
     <div className="container">
-      <h1>About Us Page</h1>
+      <h1>This is About Us Page</h1>
     </div>
     <Footer />
   </div>
