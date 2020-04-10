@@ -33,48 +33,16 @@ export default () => (
       }
     `}
     render={(data) => (
-      <div
-        style={{
-          maxWidth: `100%`,
-          Height: `500px`,
-        }}
-      >
+      <div>
         <Carousel>
           <Carousel.Item>
-            <div className="sliderImage">
-              <Img
-                style={{
-                  maxWidth: `100%`,
-                  Height: `500px`,
-                }}
-                fluid={data.slide01.childImageSharp.fluid}
-                className="sliderImage"
-              />
-            </div>
+            <Img fluid={data.slide01.childImageSharp.fluid} />
           </Carousel.Item>
           <Carousel.Item>
-            <div className="sliderImage">
-              <Img
-                style={{
-                  maxWidth: `100%`,
-                  Height: `500px`,
-                }}
-                fluid={data.slide02.childImageSharp.fluid}
-                className="sliderImage"
-              />
-            </div>
+            <Img fluid={data.slide02.childImageSharp.fluid} />
           </Carousel.Item>
           <Carousel.Item>
-            <div className="sliderImage">
-              <Img
-                style={{
-                  maxWidth: `100%`,
-                  Height: `500px`,
-                }}
-                fluid={data.slide03.childImageSharp.fluid}
-                className="sliderImage"
-              />
-            </div>
+            <Img fluid={data.slide03.childImageSharp.fluid} s />
           </Carousel.Item>
         </Carousel>
       </div>
