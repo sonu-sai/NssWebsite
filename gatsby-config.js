@@ -5,7 +5,6 @@ module.exports = {
         author: 'Sonu Sai P K',
     },
     plugins: [
-        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-sass`,
