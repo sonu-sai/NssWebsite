@@ -3,7 +3,6 @@ module.exports = {
         title: `NSS NSSCE | Unit 128 & 198`,
         description: `Official Website of National Service Scheme (NSS) in NSS college of Engineering (NSSCE) Palakkad, Units 128 & 198`,
         author: 'Sonu Sai P K',
-        // siteUrl: `https://fossnss.org`,
     },
     plugins: [
         `gatsby-plugin-sitemap`,
