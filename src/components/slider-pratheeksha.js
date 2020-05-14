@@ -7,7 +7,7 @@ export default () => (
   <StaticQuery
     query={graphql`
       query {
-        slide01: file(relativePath: { eq: "pratheekshaSlide1.jpg" }) {
+        slide01: file(relativePath: { eq: "pratheekshaSlide1.jpeg" }) {
           childImageSharp {
             fluid(maxWidth: 1200) {
               ...GatsbyImageSharpFluid
@@ -15,7 +15,7 @@ export default () => (
           }
         }
 
-        slide02: file(relativePath: { eq: "pratheekshaSlide2.jpg" }) {
+        slide02: file(relativePath: { eq: "pratheekshaSlide2.jpeg" }) {
           childImageSharp {
             fluid(maxWidth: 1200) {
               ...GatsbyImageSharpFluid
@@ -23,7 +23,7 @@ export default () => (
           }
         }
 
-        slide03: file(relativePath: { eq: "pratheekshaSlide3.jpg" }) {
+        slide03: file(relativePath: { eq: "pratheekshaSlide3.jpeg" }) {
           childImageSharp {
             fluid(maxWidth: 1200) {
               ...GatsbyImageSharpFluid
