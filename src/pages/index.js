@@ -10,31 +10,19 @@ const IndexPage = () => (
     <Header />
     <div className="container">
       <SliderIndex />
-      <div>
+      <div  className="mainText">
         <h1>WHAT ARE WE ?</h1>
         <p>
-          . Why do we use it? It is a long established fact that a reader will
-          be distracted by the readable content of a page when looking at its
-          layout. The point of using Lorem Ipsum is that it has a more-or-less
-          normal distribution of letters, as opposed to using 'Content here,
-          content here', making it look like readable English. Many desktop
-          publishing packages and web page editors now use Lorem Ipsum as their
-          default model text, and a search for 'lorem ipsum' will uncover many
-          web sites still in their infancy. Various versions have evolved over
-          the years, sometimes by accident, sometimes on purpose (injected
-          humour and the like).
-        </p>
-        <p>
-          . Why do we use it? It is a long established fact that a reader will
-          be distracted by the readable content of a page when looking at its
-          layout. The point of using Lorem Ipsum is that it has a more-or-less
-          normal distribution of letters, as opposed to using 'Content here,
-          content here', making it look like readable English. Many desktop
-          publishing packages and web page editors now use Lorem Ipsum as their
-          default model text, and a search for 'lorem ipsum' will uncover many
-          web sites still in their infancy. Various versions have evolved over
-          the years, sometimes by accident, sometimes on purpose (injected
-          humour and the like).
+        NSS NSSCE, student volunteer body in the campus of NSS College of Engineering
+        was set up as a part of National Service Scheme nearly 2 decades ago aiming 
+        for the participation of students in social as well as public welfare activities 
+        and to give a helping hand as well as support for the destitute and impoverished. 
+        Driven by the motto of NOT ME BUT YOU and with the joint effort of about 200 volunteers,
+        NSS NSSCE has lived and is living up to it’s expectation by being one of the most active and 
+        leading student volunteer body in various community welfare and environmental activities. 
+        Guided with knowledge and kindness and feeling with love and empathy, the volunteers organizes 
+        and conducts various activities and awareness programs with our squad goal being ‘Spreading 
+        happiness through our service’.
         </p>
       </div>
       <div>
