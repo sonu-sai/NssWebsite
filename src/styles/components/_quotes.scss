@@ -29,3 +29,21 @@
     box-shadow: 0 8px 16px 0 #6d6deb;
   }
 }
+
+@media screen and (max-width: 1100px) {
+  .gridContainerCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 25px;
+    padding-top: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .gridContainerCard {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 25px;
+    padding-top: 25px;
+  }
+}
