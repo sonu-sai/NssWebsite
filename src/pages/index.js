@@ -14,7 +14,7 @@ const IndexPage = () => (
         <h1> Who are WE?</h1>
         <p>
           NSS NSSCE, student volunteer body in the campus of NSS College of
-          Engineering was set up as a part of National Service Scheme nearly 2
+          Engineering was set up as a part of National Service Scheme nearly 5
           decades ago aiming for the participation of students in social as well
           as public welfare activities and to give a helping hand as well as
           support for the destitute and impoverished. Under the guidance of
@@ -41,7 +41,7 @@ const IndexPage = () => (
         <p>
           If we have the ability to help atleast one person, do it because a
           help arrived at the right time can even save a life. This is our
-          common thread and our mantra.{" "}
+          common thread and our mantra.
         </p>
       </div>
 
