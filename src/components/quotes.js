@@ -38,7 +38,7 @@ export default () => (
             fluid={data.quote01.childImageSharp.fluid}
           />
           <div className="quoteCardContainer">
-            <p style={{ width: `250px`, height: `80px`, textAlign: `center` }}>
+            <p className="quotePara">
               <span style={{ color: `red` }}>" </span>
               The best way to find yourself is to lose yourself in the service
               of others.<span style={{ color: `red` }}> "</span>
@@ -52,7 +52,7 @@ export default () => (
             fluid={data.quote02.childImageSharp.fluid}
           />
           <div className="quoteCardContainer">
-            <p style={{ width: `250px`, height: `80px`, textAlign: `center` }}>
+            <p className="quotePara">
               <span style={{ color: `red` }}>" </span>
               In this life We cannot do GREAT things.We can only do small things
               with GREAT love.
@@ -67,9 +67,9 @@ export default () => (
             fluid={data.quote03.childImageSharp.fluid}
           />
           <div className="quoteCardContainer">
-            <p style={{ width: `250px`, height: `80px`, textAlign: `center` }}>
+            <p className="quotePara">
               <span style={{ color: `red` }}>" </span>I attribute my succes to
-              this - I never gave or took any execuse.{" "}
+              this - I never gave or took any excuse.{" "}
               <span style={{ color: `red` }}>"</span>
             </p>
             <h5 style={{ textAlign: `right` }}>- Florence Nightingale</h5>
